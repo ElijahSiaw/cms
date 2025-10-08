@@ -18,7 +18,13 @@
 * Get it at [church.zip]()
 * Unzip the file
 * Install java jdk
-* Execute the church.jar file
+* Execute double clicking on the ChurchRecords.jar file
+* To Run it from the command line
+  ```bash
+  #Open command prompt or terminal from the dist folder
+  #Execute
+  java -jar "ChurchRecords.jar"
+  ```
 * Enjoy 
 
 #### Developer ❤
