@@ -15,7 +15,7 @@
 
 ## Installation
 * Download the Zip file
-* Get it at [church.zip]()
+* Get it at [CMS.zip]()
 * Unzip the file
 * Install java jdk
 * Execute double clicking on the ChurchRecords.jar file
