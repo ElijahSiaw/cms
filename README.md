@@ -16,7 +16,7 @@
 ## Installation
 * Download the Zip file
 * Get it at [CMS.zip](https://github.com/ElijahSiaw/cms/releases/tag/v2.3.1)
-* Unzip the file
+* [Download java jdk](https://www.oracle.com/africa/java/technologies/downloads/#jdk21-linux)
 * Install java jdk
 * Execute double clicking on the ChurchRecords.jar file
 * To Run it from the command line
