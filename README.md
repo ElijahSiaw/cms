@@ -15,7 +15,7 @@
 
 ## Installation
 * Download the Zip file
-* Get it at [CMS.zip]()
+* Get it at [CMS.zip](https://github.com/ElijahSiaw/cms/releases/tag/v2.3.1)
 * Unzip the file
 * Install java jdk
 * Execute double clicking on the ChurchRecords.jar file
